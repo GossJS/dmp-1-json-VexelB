@@ -1,3 +1,3 @@
-1: https://kodaktor.ru/j/myjson_6a4c9
+1: https://kodaktor.ru/j/myjson_7b295
 
 2: https://kodaktor.ru/j/myjson_36ddc
